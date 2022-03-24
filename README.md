@@ -1,4 +1,4 @@
-# Mobi_Akross | Estágio NodeJS - Typescript
+# Mobi_Akross | NodeAPITask
 
 ## 🚀 About Project
 
