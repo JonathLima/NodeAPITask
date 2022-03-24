@@ -25,10 +25,10 @@ To clone and run this application, you will need [Git](https://git-scm.com), [No
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/JonathSilva/NodeEstagioJonathanSilva.git
+$ git clone https://github.com/JonathSilva/NodeAPITask.git
 
 # Go to the project folder in terminal/cmd
-$ cd NodeEstagioJonathanSilva
+$ cd NodeAPITask
 ```
 
 ### 🧭 Run Application Web
